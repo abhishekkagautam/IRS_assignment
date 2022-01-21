@@ -1,5 +1,5 @@
 # IRS_assignment
-i)How do you acquire the information and transform it into searchable form?
+## i)How do you acquire the information and transform it into searchable form?
  Web scrapping for acquiring data and dynamically structuring it out with python code, finally saving it in CSV files for further operations
 ## ii)  What are the search-related supports to the user and level of interactivity?
  For this model user should know the spelling of the item he/she is searching for I have used code to ignore the nature of the alphabets in order to reduce complexity at the user side.
